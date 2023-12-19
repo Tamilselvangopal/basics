@@ -1,5 +1,4 @@
-hi this program is 
-gi
+pulsar rs200 
 import java.util.*;  
 class Swap   
 {  
